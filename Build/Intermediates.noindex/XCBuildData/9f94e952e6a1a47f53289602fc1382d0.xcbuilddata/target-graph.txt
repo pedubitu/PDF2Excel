@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'PDF2ExcelTests' in project 'PDF2Excel'
+➜ Explicit dependency on target 'PDF2Excel' in project 'PDF2Excel'
+Target 'PDF2ExcelUITests' in project 'PDF2Excel'
+➜ Explicit dependency on target 'PDF2Excel' in project 'PDF2Excel'
+Target 'PDF2Excel' in project 'PDF2Excel' (no dependencies)

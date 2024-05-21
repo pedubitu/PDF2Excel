@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests-master.dia",
+    "emit-module-dependencies" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests-master.swiftdeps"
+  },
+  "/Users/bahito/Library/Mobile Documents/com~apple~CloudDocs/Developer/PDF2Excel/PDF2Excel/PDF2ExcelTests/PDF2ExcelTests.swift" : {
+    "const-values" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests.swiftconstvalues",
+    "dependencies" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests.d",
+    "diagnostics" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests.dia",
+    "index-unit-output-path" : "/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests.o",
+    "llvm-bc" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests.bc",
+    "object" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests.o",
+    "swift-dependencies" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests.swiftdeps",
+    "swiftmodule" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Build/Intermediates.noindex/Previews/macos/PDF2Excel/Intermediates.noindex/PDF2Excel.build/Debug/PDF2ExcelTests.build/Objects-normal/arm64/PDF2ExcelTests~partial.swiftmodule"
+  }
+}

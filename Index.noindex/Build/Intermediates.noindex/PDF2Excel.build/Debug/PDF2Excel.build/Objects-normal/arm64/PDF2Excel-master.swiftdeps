@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "64731e4a693c0b7ab423b3fe0519c466d9355722c2f4fa59cf59e030911611fb"
+build_start_time: [1716301220, 578076000]
+build_end_time: [1716301224, 375477000]
+inputs:
+  ? "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Index.noindex/Build/Intermediates.noindex/PDF2Excel.build/Debug/PDF2Excel.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1716301220, 467681427]
+  "/Users/bahito/Library/Mobile Documents/com~apple~CloudDocs/Developer/PDF2Excel/PDF2Excel/PDF2Excel/ContentView.swift": [1716301199, 94614850]
+  "/Users/bahito/Library/Mobile Documents/com~apple~CloudDocs/Developer/PDF2Excel/PDF2Excel/PDF2Excel/PDF2ExcelApp.swift": [1716301199, 91293629]

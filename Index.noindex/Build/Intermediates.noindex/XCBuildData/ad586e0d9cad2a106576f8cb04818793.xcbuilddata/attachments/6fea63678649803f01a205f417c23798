@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Index.noindex/Build/Intermediates.noindex/PDF2Excel.build/Debug/PDF2Excel.build/Objects-normal/arm64/PDF2Excel-master.d",
+    "diagnostics" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Index.noindex/Build/Intermediates.noindex/PDF2Excel.build/Debug/PDF2Excel.build/Objects-normal/arm64/PDF2Excel-master.dia",
+    "emit-module-dependencies" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Index.noindex/Build/Intermediates.noindex/PDF2Excel.build/Debug/PDF2Excel.build/Objects-normal/arm64/PDF2Excel-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Index.noindex/Build/Intermediates.noindex/PDF2Excel.build/Debug/PDF2Excel.build/Objects-normal/arm64/PDF2Excel-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Index.noindex/Build/Intermediates.noindex/PDF2Excel.build/Debug/PDF2Excel.build/Objects-normal/arm64/PDF2Excel-master.swiftdeps"
+  },
+  "/Users/bahito/Library/Developer/Xcode/DerivedData/PDF2Excel-djtursjzoedyhgdtlqglpqyglrbw/Index.noindex/Build/Intermediates.noindex/PDF2Excel.build/Debug/PDF2Excel.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/bahito/Library/Mobile Documents/com~apple~CloudDocs/Developer/PDF2Excel/PDF2Excel/PDF2Excel/ContentView.swift" : {
+
+  },
+  "/Users/bahito/Library/Mobile Documents/com~apple~CloudDocs/Developer/PDF2Excel/PDF2Excel/PDF2Excel/PDF2ExcelApp.swift" : {
+
+  }
+}
