@@ -75,6 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, suggestions, or issues, please feel free to open an issue in the repository or contact me directly.
 
-**Author:** Pedro Bahito
+**Author:** Pedro Brito
 
 **GitHub:** [pedubitu](https://github.com/pedubitu)
